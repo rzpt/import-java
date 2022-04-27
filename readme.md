@@ -1,3 +1,6 @@
+Prereqs
+https://github.com/junegunn/fzf.vim
+
 Install the plugin
 ```
 Plug 'rzpt/import-java'
